@@ -1,7 +1,7 @@
 # 🐹 GenJun
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-jun-kookmin.github.io-black?style=flat-square&logo=githubpages&logoColor=white)](https://jun-kookmin.github.io)
-
+</div>
 ---
 
 ## 💡 About Me
