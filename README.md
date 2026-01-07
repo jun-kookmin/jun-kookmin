@@ -1,12 +1,6 @@
-<div align="center">
-
 # 🐹 GenJun
 
-
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-rudwns7g.github.io-black?style=flat-square&logo=githubpages&logoColor=white)](https://jun-kookmin.github.io)
-![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=rudwns7g)](https://solved.ac/rudwns7g)
-
-</div>
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-jun-kookmin.github.io-black?style=flat-square&logo=githubpages&logoColor=white)](https://jun-kookmin.github.io)
 
 ---
 
