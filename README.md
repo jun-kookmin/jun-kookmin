@@ -80,7 +80,7 @@
 
 ## 🚀 Currently Learning
 
-Frontend
+**Frontend**
 
 ---
 
