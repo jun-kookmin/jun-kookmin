@@ -43,6 +43,10 @@
     src="https://github-readme-stats-juns-projects-5b64a524.vercel.app/api/top-langs/?username=jun-kookmin&layout=compact&cache_seconds=1800&v=1"
     alt="Top Languages"
   />
+
+  ![mazandi profile](http://mazandi.herokuapp.com/api?handle={jun-kookmin}&theme=dark)
+  <img src="http://mazandi.herokuapp.com/api?handle={jun-kookmin}&theme=dark"/>
+  
 </div>
 
     
