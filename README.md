@@ -3,8 +3,8 @@
 # 🐹 GenJun
 
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-jjinueng.github.io-black?style=flat-square&logo=githubpages&logoColor=white)](https://jjinueng.github.io)
-![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=jjinueng)](https://solved.ac/jjinueng)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-jjinueng.github.io-black?style=flat-square&logo=githubpages&logoColor=white)](https://jun-kookmin.github.io)
+![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=jjinueng)](https://solved.ac/rudwns7g)
 
 </div>
 
@@ -23,7 +23,7 @@
 ## 🛠 Tech Stack
 
 ### Frontend
-📚**Studying  Now!**
+📚**Studying Now!**
 
 ### Backend
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray)
@@ -42,8 +42,8 @@
 
 ### Deploy
 
-![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=flat&logo=yaml&logoColor=151515)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=flat&logo=yaml&logoColor=151515)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
 
