@@ -1,21 +1,10 @@
 # 🐹 GenJun
-**장고장 없다 ㅋㅋ**
 
 ---
 
 ## 💡 About Me
 
-<div>
-  <a href=> 
-    <img 
-      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link="
-    >
-  <a href=mailto:rudwns7g@gmail.com> 
-    <img 
-      src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:rudwns7g@gmail.com"
-    >
-
-</div>
+수정 예정 
 
 ---
 
