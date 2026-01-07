@@ -45,6 +45,4 @@
     alt="Top Languages"
   />
   </div>
-
-    </div>
     
