@@ -33,7 +33,8 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> 
-        [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jun-kookmin)](https://github.com/jun-kookmin/github-readme-stats)
+        ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jun-kookmin&show_icons=true&count_private=true&theme=tokyonight)
+        ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jun-kookmin&layout=compact)
     </div> 
     </div>
     
