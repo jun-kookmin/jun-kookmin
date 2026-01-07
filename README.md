@@ -44,8 +44,8 @@
     alt="Top Languages"
   />
 
-  ![mazandi profile](http://mazandi.herokuapp.com/api?handle={rudwns7g}&theme=dark)
-  <img src="http://mazandi.herokuapp.com/api?handle={rudwns7g}&theme=dark"/>
+  ![mazandi profile](http://mazandi.herokuapp.com/api?handle=rudwns7g&theme=dark)
+  <img src="http://mazandi.herokuapp.com/api?handle=rudwns7g&theme=dark"/>
   
 </div>
 
