@@ -81,14 +81,9 @@
   />
   <img
     src="https://github-readme-stats-juns-projects-5b64a524.vercel.app/api/top-langs/?username=jun-kookmin&layout=compact&cache_seconds=1800&v=1"
-    alt="Top Languages" width="35%"
+    alt="Top Languages" width="30%"
   />
 
-</div>
-<div>
-    <img 
-          src="http://mazandi.herokuapp.com/api?handle=rudwns7g&theme=warm" width="35%"
-    />
 </div>
 ---
 
