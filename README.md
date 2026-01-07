@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=180&text=Updating…&animation=&fontColor=baf3e6&fontSize=40" />
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 수정할거야 </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 빠끄 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> ㅇㅇ! </div> 
     </div>
     <div align= "center">
@@ -32,8 +32,8 @@
     <div align= "center">  </div> 
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=jun-kookmin&bg_color=180,000000,00000000&title_color=000000&text_color=000000"
-         /> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jun-kookmin&show_icons=true&theme=radical)
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> 
+        
     </div> 
     </div>
     
