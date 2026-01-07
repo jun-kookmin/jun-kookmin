@@ -1,14 +1,18 @@
 # 🐹 GenJun
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-jun-kookmin.github.io-black?style=flat-square&logo=githubpages&logoColor=white)](https://jun-kookmin.github.io)
-</div>
 ---
 
 ## 💡 About Me
 추후 수정
 <div>
-  <a href=> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=">
-  <a href=mailto:rudwns7g@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:rudwns7g@gmail.com">
+  <a href=> 
+    <img 
+      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link="
+    >
+  <a href=mailto:rudwns7g@gmail.com> 
+    <img 
+      src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:rudwns7g@gmail.com"
+    >
 
 </div>
 
@@ -73,11 +77,11 @@
 
   <img
     src="https://github-readme-stats-juns-projects-5b64a524.vercel.app/api?username=jun-kookmin&show_icons=true&theme=tokyonight&cache_seconds=1800&v=1"
-    alt="GitHub Stats" width="48%"
+    alt="GitHub Stats" width="35%"
   />
   <img
     src="https://github-readme-stats-juns-projects-5b64a524.vercel.app/api/top-langs/?username=jun-kookmin&layout=compact&cache_seconds=1800&v=1"
-    alt="Top Languages" width="48%"
+    alt="Top Languages" width="35%"
   />
 
 </div>
