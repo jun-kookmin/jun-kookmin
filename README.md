@@ -75,17 +75,17 @@
   />
 
 </div>
+
 ---
 
 ## 🚀 Currently Learning
 
-- Spring Security + JWT 인증
-- Docker / GitHub Actions 기반 CI/CD
-- 클린 아키텍처와 테스트 중심 설계
+Frontend
 
 ---
 
 ## 🔗 Contact & More
+
 
 ---
     
