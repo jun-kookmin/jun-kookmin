@@ -36,13 +36,13 @@
   </h2>
 
   <img
-    src="https://github-readme-stats-juns-projects-5b64a524.vercel.app/api?username=jun-kookmin&show_icons=true&theme=tokyonight"
+    src="https://github-readme-stats-juns-projects-5b64a524.vercel.app/api?username=jun-kookmin&show_icons=true&theme=tokyonight&cache_seconds=1800&v=1"
     alt="GitHub Stats"
   />
   <br/>
   <img
-    src="https://github-readme-stats-juns-projects-5b64a524.vercel.app/api/top-langs/?username=jun-kookmin&layout=compact"
+    src="https://github-readme-stats-juns-projects-5b64a524.vercel.app/api/top-langs/?username=jun-kookmin&layout=compact&cache_seconds=1800&v=1"
     alt="Top Languages"
   />
-  </div>
+</div>
     
