@@ -30,10 +30,11 @@
          <a href=mailto:rudwns7g@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:rudwns7g@gmail.com"> </a>
           </div>  <br> 
     <div align= "center">  </div> 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jun-kookmin&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jun-kookmin&layout=compact&cache_seconds=1800" />
+    <div align="center">
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">
+    🏅 Stats
+  </h2>
+
 </div>
     </div>
     
