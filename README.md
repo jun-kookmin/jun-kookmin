@@ -1,9 +1,10 @@
 # 🐹 GenJun
+* 장고장 없다 ㅋㅋ
 
 ---
 
 ## 💡 About Me
-저질러도 보고 만들어도 보는거야!
+
 <div>
   <a href=> 
     <img 
