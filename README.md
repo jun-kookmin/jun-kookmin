@@ -44,9 +44,9 @@
   />
 </div>
 <div>
-      ![mazandi profile](http://mazandi.herokuapp.com/api?handle=rudwns7g&theme=warm)
-      <img src="http://mazandi.herokuapp.com/api?handle=rudwns7g&theme=warm"/>
-    
+      <img 
+          src="http://mazandi.herokuapp.com/api?handle=rudwns7g&theme=warm"
+          />
 </div>
 
 
